@@ -35,5 +35,7 @@
 - [BEM](./css/bem.md)
 - [global-variable](./css/global-variable.md)
 - [CSS 성능](./css/css-performance.md)
+- [가상요소](./css/pseudo-element.md)
+- [순서 바꾸기](./css/even.md)
 
 ## JavaScript

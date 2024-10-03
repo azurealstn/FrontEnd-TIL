@@ -23,3 +23,11 @@ div 태그를 사용하여 width(100px)와 height(100px)를 지정하면 기본�
 
 - 하지만 테두리를 바깥쪽으로 생기게 하고 싶을 때가 있는데 이 때는 outline 속성을 사용하면 된다.
 - 바깥쪽에 테두리가 생기기 때문에 width와 height가 테두리 크기만큼 늘어나게 된다.
+- 콘텐츠 크기에 영향을 주지 않으면서 사용할 수 있는 테두리이다.
+
+## Shadow
+
+요소에 그림자 효과를 줄 수 있는 속성이다.
+
+- https://cssgenerator.org/box-shadow-css-generator.html
+- https://ui.aceternity.com/tools/box-shadows
