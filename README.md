@@ -14,6 +14,10 @@
 - [Sematic-Tag](./html/semantic-tag)
 - [Element vs Container](./html/element.md)
 - [Block vs Inline](./html/block.md)
+- [SEO](./html/seo.md)
+- [HTML Escape](./html/escape.md)
+- [Google Font](./html/google-font.md)
+- [Font Awesome](./html/font-awesome.md)
 
 ## CSS
 
