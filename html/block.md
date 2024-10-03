@@ -1,5 +1,7 @@
 # block vs inline
 
+## block
+
 ![block](./images/block.png)
 
 - 한 줄을 꽉 채운 것을 block level이라 한다.
@@ -7,6 +9,8 @@
 - p
 - div
 - ...
+
+## inline
 
 ![inline](./images/inline.png)
 
