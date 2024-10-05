@@ -10,6 +10,7 @@ const elementHeight = element.getBoundingClientRect().height;
 ```
 
 - `Element.getBoundingClientRect()` 메서드는 요소의 크기나 위치 정보를 제공하는 `DOMRect` 객체를 반환한다.
+- 다만 `getBoundingClientRect` 메서드를 많이 호출할수록 리소스를 많이 잡아먹기 때문에 사용을 최소화하는 것이 좋다.
 - 다른 방법으로는 `element.offsetHeight` 속성을 사용하면 높이를 가져올 수 있다. (단, 정수 반환)
 
 ## 스크롤될 때 브라우저 높이 구하는 법

@@ -42,3 +42,4 @@
 ## JavaScript
 
 - [브라우저 높이 활용](./js/browser-height.md)
+- [Observer API](./js/observer-api.md)
