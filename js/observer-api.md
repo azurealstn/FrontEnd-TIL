@@ -46,9 +46,3 @@ let callback = (entries, observer) => {
 - `entry.rootBounds`: 부모 요소에 대한 Bounds 정보
 - `entry.target`: target 요소
 - `entry.time`: 관찰 변화가 일어났을 때 시간
-
-## Observer 생성
-
-```javascript
-
-```

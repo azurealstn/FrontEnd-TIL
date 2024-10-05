@@ -5,6 +5,8 @@
 ## Tool
 
 - [유용한 VS Code 익스텐션](./tool/extension.md)
+- [VS Code의 유용한 단축키](./tool/shortcut-key.md)
+- [웹개발 툴](./tool/web-development-tool.md)
 
 ## HTML
 
@@ -38,8 +40,14 @@
 - [CSS 성능](./css/css-performance.md)
 - [가상요소](./css/pseudo-element.md)
 - [순서 바꾸기](./css/even.md)
+- [CSS 단위](./css/units.md)
 
 ## JavaScript
 
 - [브라우저 높이 활용](./js/browser-height.md)
-- [Observer API](./js/observer-api.md)
+- [Observer API](./js/observer-api.md)=
+
+## 참고한 강의 리스트
+
+- [드림코딩 - 포트폴리오 웹사이트 클론코딩(유료)](https://academy.dream-coding.com/courses/portfolio)
+- [드림코딩 - 프론트엔드 강의 - 프론트엔드 개발자 되기 입문편⭐️ (개념 + 클론코딩)(무료)](https://www.youtube.com/playlist?list=PLv2d7VI9OotQ1F92Jp9Ce7ovHEsuRQB3Y)
