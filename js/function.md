@@ -2,7 +2,7 @@
 
 JavaScript에서 함수는 `first-class-function`이다. 즉, 함수를 변수에 할당할수도 있고, 파라미터를 값을 넘길 수 있다. (처음 JavaScript 배울 때 여기서 충격 받았던 기억이..)
 
-## 일반적인 함수
+## 함수 선언식
 
 ```javascript
 sayHello();
@@ -51,3 +51,21 @@ IIFE(Immediately Invoked Function Expression)은 선언과 동시에 함수를 �
   console.log("HELLO!");
 })();
 ```
+
+## 생성자 함수
+
+생성자 함수(Constructor Function)는 일반적인 함수와 기술적인 차이가 없다. 다만 사용하는 키워드가 있다.
+
+```javascript
+function Person(name, age) {
+  this.name = name;
+  this.age = age;
+}
+
+const person = new Person("Mike", 30);
+console.log(person);
+```
+
+- 첫번째로 함수의 이름에 첫문자는 대문자이다.
+- 객체를 생성할 때는 `new` 키워드를 사용한다.
+- 생성자 함수를 사용하면 중복 코드를 줄일 수 있다는 장점이 있다.

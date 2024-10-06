@@ -49,14 +49,15 @@
 - [Observer API](./js/observer-api.md)
 - [async vs defer](./js/async-defer.md)
 - [엄격모드](./js/use-strict.md)
-- [var vs let vs const](./js/var-let-const.md)
+- [var vs let vs const (호이스팅과 TDZ)](./js/var-let-const.md)
 - [함수](./js/function.md)
 - [immutable data types](./js/immutable.md)
 - [속성 단축](./js/shorthand-property.md)
 - [구조분해할당](./js/destructuring.md)
-- [spread 연산자](./js/spread.md)
+- [spread 연산자 & rest 연산자](./js/spread.md)
 - [Optional Chaining](./js/optional-chaining.md)
 - [Nullish 연산자](./js/nullish.md)
+- [this](./js/this.md)
 
 ## 참고한 강의 리스트
 
