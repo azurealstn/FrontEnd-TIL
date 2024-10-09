@@ -79,6 +79,9 @@
 - [React Hooks](./react/hooks.md)
 - [라이프싸이클](./react/life-cycle.md)
 - [Effect](./react/effect.md)
+- [useReducer](./react/reducer.md)
+- [useMemo](./react/memo.md)
+- [React Context](./react/context.md)
 
 ## 참고한 강의 리스트
 
