@@ -70,6 +70,15 @@
 - [리액트란](./react/what-is-react.md)
 - [React 폴더&파일 구조](./react/folder.md)
 - [React App 구동원리](./react/how-react.md)
+- [React Component](./react/component.md)
+- [JSX](./react/jsx.md)
+- [Props](./react/props.md)
+- [이벤트 처리](./react/event.md)
+- [State](./react/state.md)
+- [Ref](./react/ref.md)
+- [React Hooks](./react/hooks.md)
+- [라이프싸이클](./react/life-cycle.md)
+- [Effect](./react/effect.md)
 
 ## 참고한 강의 리스트
 
