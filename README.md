@@ -82,6 +82,7 @@
 - [useReducer](./react/reducer.md)
 - [useMemo](./react/memo.md)
 - [React Context](./react/context.md)
+- [페이지 라우팅](./react/page-routing.md)
 
 ## 참고한 강의 리스트
 
