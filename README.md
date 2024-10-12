@@ -13,7 +13,7 @@
 - [HTML이란?](./html/what-is-html.md)
 - [HTML5](./html/html5.md)
 - [Head](./html/head.md)
-- [Sematic-Tag](./html/semantic-tag)
+- [Sematic-Tag](./html/semantic-tag.md)
 - [Element vs Container](./html/element.md)
 - [Block vs Inline](./html/block.md)
 - [SEO](./html/seo.md)
@@ -59,6 +59,7 @@
 - [Nullish 연산자](./js/nullish.md)
 - [this](./js/this.md)
 - [Truthy & Falsy](./js/truthy-falsy.md)
+- [웹 스토리지](./js/web-storage.md)
 
 ## Node.js
 
@@ -90,3 +91,4 @@
 - [드림코딩 - 프론트엔드 강의 - 프론트엔드 개발자 되기 입문편⭐️ (개념 + 클론코딩)(무료)](https://www.youtube.com/playlist?list=PLv2d7VI9OotQ1F92Jp9Ce7ovHEsuRQB3Y)
 - [드림코딩 - 자바스크립트 기초 강의 (ES5+): 같이 노트](https://www.youtube.com/playlist?list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2)
 - [한 번에 끝내는 자바스크립트: 바닐라 자바스크립트로 SPA 개발까지](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95%EB%B6%80%ED%84%B0-spa%EA%B0%9C%EB%B0%9C%EA%B9%8C%EC%A7%80)
+- [[2024] 한입 크기로 잘라 먹는 리액트(React.js) : 기초부터 실전까지](https://www.inflearn.com/course/%ED%95%9C%EC%9E%85-%EB%A6%AC%EC%95%A1%ED%8A%B8)
