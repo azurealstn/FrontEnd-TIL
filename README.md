@@ -85,6 +85,12 @@
 - [React Context](./react/context.md)
 - [페이지 라우팅](./react/page-routing.md)
 
+## TypeScript
+
+- [타입스크립트란](./typescript/what-is-typescript.md)
+- [타입스크립트 설치 및 설정](./typescript/install-setting.md)
+- [기본 타입](./typescript/type.md)
+
 ## 참고한 강의 리스트
 
 - [드림코딩 - 포트폴리오 웹사이트 클론코딩(유료)](https://academy.dream-coding.com/courses/portfolio)
