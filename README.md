@@ -90,6 +90,9 @@
 - [타입스크립트란](./typescript/what-is-typescript.md)
 - [타입스크립트 설치 및 설정](./typescript/install-setting.md)
 - [기본 타입](./typescript/type.md)
+- [타입 계층도](./typescript/type-inherit.md)
+- [대수 타입](./typescript/algebraic-type.md)
+- [타입 단언](./typescript/type-assertion.md)
 
 ## 참고한 강의 리스트
 
