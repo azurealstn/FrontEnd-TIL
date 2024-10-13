@@ -93,6 +93,10 @@
 - [타입 계층도](./typescript/type-inherit.md)
 - [대수 타입](./typescript/algebraic-type.md)
 - [타입 단언](./typescript/type-assertion.md)
+- [함수 타입](./typescript/function.md)
+- [인터페이스](./typescript/interface.md)
+- [클래스](./typescript/class.md)
+- [접근제어자](./typescript/access-modifier.md)
 
 ## 참고한 강의 리스트
 
