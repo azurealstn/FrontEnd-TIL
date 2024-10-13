@@ -97,6 +97,7 @@
 - [인터페이스](./typescript/interface.md)
 - [클래스](./typescript/class.md)
 - [접근제어자](./typescript/access-modifier.md)
+- [제네릭](./typescript/generic.md)
 
 ## 참고한 강의 리스트
 
