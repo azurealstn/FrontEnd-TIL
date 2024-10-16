@@ -98,6 +98,8 @@
 - [클래스](./typescript/class.md)
 - [접근제어자](./typescript/access-modifier.md)
 - [제네릭](./typescript/generic.md)
+- [인덱스드 엑세스 타입](./typescript/indexed-type.md)
+- [맵드타입](./typescript/mapped-type.md)
 
 ## 참고한 강의 리스트
 
