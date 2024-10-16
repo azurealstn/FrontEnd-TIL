@@ -100,6 +100,7 @@
 - [제네릭](./typescript/generic.md)
 - [인덱스드 엑세스 타입](./typescript/indexed-type.md)
 - [맵드타입](./typescript/mapped-type.md)
+- [조건부 타입](./typescript/conditional-type.md)
 
 ## 참고한 강의 리스트
 
