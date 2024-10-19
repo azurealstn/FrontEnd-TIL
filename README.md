@@ -103,6 +103,11 @@
 - [조건부 타입](./typescript/conditional-type.md)
 - [유틸리티 타입](./typescript/utility-type.md)
 
+## Next.js
+
+- [Next.js란](./next/what-is-next.md)
+- [페이지 라우터](./next/page-router.md)
+
 ## 참고한 강의 리스트
 
 - [드림코딩 - 포트폴리오 웹사이트 클론코딩(유료)](https://academy.dream-coding.com/courses/portfolio)
@@ -110,3 +115,4 @@
 - [드림코딩 - 자바스크립트 기초 강의 (ES5+): 같이 노트](https://www.youtube.com/playlist?list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2)
 - [한 번에 끝내는 자바스크립트: 바닐라 자바스크립트로 SPA 개발까지](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95%EB%B6%80%ED%84%B0-spa%EA%B0%9C%EB%B0%9C%EA%B9%8C%EC%A7%80)
 - [[2024] 한입 크기로 잘라 먹는 리액트(React.js) : 기초부터 실전까지](https://www.inflearn.com/course/%ED%95%9C%EC%9E%85-%EB%A6%AC%EC%95%A1%ED%8A%B8)
+- [한 입 크기로 잘라먹는 타입스크립트(TypeScript)](https://www.inflearn.com/course/%ED%95%9C%EC%9E%85-%ED%81%AC%EA%B8%B0-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)
