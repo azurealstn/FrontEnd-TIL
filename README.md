@@ -106,7 +106,11 @@
 ## Next.js
 
 - [Next.js란](./next/what-is-next.md)
-- [페이지 라우터](./next/page-router.md)
+- [Page Router](./next/page-router.md)
+- [프리페칭](./next/pre-fetching.md)
+- [API Routes](./next/api-routes.md)
+- [CSS Module](./next/css-module.md)
+- [데이터 페칭](./next/data-fetching.md)
 
 ## 참고한 강의 리스트
 
