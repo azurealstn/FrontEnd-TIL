@@ -113,6 +113,8 @@
 - [데이터 페칭](./next/data-fetching.md)
 - [App Router](./next/app-router.md)
 - [React Server Component](./next/react-server-component.md)
+- [데이터 캐시](./next/data-cache.md)
+- [리퀘스트 메모이제이션](./next/request-memo.md)
 
 ## 참고한 강의 리스트
 
