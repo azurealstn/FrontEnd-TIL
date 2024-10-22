@@ -111,6 +111,8 @@
 - [API Routes](./next/api-routes.md)
 - [CSS Module](./next/css-module.md)
 - [데이터 페칭](./next/data-fetching.md)
+- [App Router](./next/app-router.md)
+- [React Server Component](./next/react-server-component.md)
 
 ## 참고한 강의 리스트
 
