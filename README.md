@@ -115,6 +115,8 @@
 - [React Server Component](./next/react-server-component.md)
 - [데이터 캐시](./next/data-cache.md)
 - [리퀘스트 메모이제이션](./next/request-memo.md)
+- [풀 라우트 캐시](./next/full-route-cache.md)
+- [Streaming](./next/streaming.md)
 
 ## 참고한 강의 리스트
 
