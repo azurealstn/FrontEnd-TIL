@@ -85,6 +85,21 @@
 - [React Context](./react/context.md)
 - [페이지 라우팅](./react/page-routing.md)
 
+## Redux
+
+- [리덕스란](./redux/what-is-redux.md)
+- [리덕스 구성요소](./redux/redux-component.md)
+- [Redux Store](./redux/store.md)
+- [Redux Action](./redux/action.md)
+- [Reducer](./redux/reducer.md)
+- [Redux와 UI](./redux/ui.md)
+- [Container](./redux/container.md)
+- [Async Logic](./redux/async-logic.md)
+- [Redux Thunk](./redux/redux-thunk.md)
+- [Redux Saga](./redux/redux-saga.md)
+- [Redux Persist](./redux/redux-persist.md)
+- [Redux Toolkit](./redux/redux-toolkit.md)
+
 ## TypeScript
 
 - [타입스크립트란](./typescript/what-is-typescript.md)
@@ -126,4 +141,6 @@
 - [드림코딩 - 자바스크립트 기초 강의 (ES5+): 같이 노트](https://www.youtube.com/playlist?list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2)
 - [한 번에 끝내는 자바스크립트: 바닐라 자바스크립트로 SPA 개발까지](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95%EB%B6%80%ED%84%B0-spa%EA%B0%9C%EB%B0%9C%EA%B9%8C%EC%A7%80)
 - [[2024] 한입 크기로 잘라 먹는 리액트(React.js) : 기초부터 실전까지](https://www.inflearn.com/course/%ED%95%9C%EC%9E%85-%EB%A6%AC%EC%95%A1%ED%8A%B8)
+- [처음 만난 리덕스(Redux)](https://www.inflearn.com/course/%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%82%9C-redux)
 - [한 입 크기로 잘라먹는 타입스크립트(TypeScript)](https://www.inflearn.com/course/%ED%95%9C%EC%9E%85-%ED%81%AC%EA%B8%B0-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)
+- [한 입 크기로 잘라먹는 Next.js(15+)](https://www.inflearn.com/course/%ED%95%9C%EC%9E%85-%ED%81%AC%EA%B8%B0-nextjs)
